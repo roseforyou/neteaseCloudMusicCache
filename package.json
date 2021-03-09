@@ -1,0 +1,22 @@
+{
+  "name": "neteasecloudmusiccache",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "netease-music",
+    "cache",
+    "decoder"
+  ],
+  "author": "AZu",
+  "license": "ISC",
+  "dependencies": {
+    "NeteaseCloudMusicApi": "^4.0.8",
+    "download": "^8.0.0",
+    "fs-extra": "^9.1.0",
+    "node-id3": "^0.2.2"
+  }
+}
