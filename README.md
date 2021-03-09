@@ -3,9 +3,9 @@
 ## 1. First at all:
 
 Install
-`网易云音乐` **and listen to some songs !!**
-Node  
-Git  
+`网易云音乐` **and listen to some songs !!**  
+Node: https://nodejs.org/en/  
+Git: https://git-scm.com/downloads  
 To set `网易云音乐` cache path `NETEASE_CLOUDMUSIC_PATH` in the `config.js`.
 
 ## 2. Usage:
